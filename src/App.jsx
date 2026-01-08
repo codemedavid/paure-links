@@ -8,13 +8,13 @@ const links = [
 ]
 
 const adminLinks = [
-  { id: 'admin-phoebe', text: 'Phoebe', href: 'https://api.whatsapp.com/send?phone=639686450947' },
-  { id: 'admin-glia', text: 'Glia', href: 'https://api.whatsapp.com/send?phone=639758609769' },
-  { id: 'admin-james', text: 'James', href: 'https://api.whatsapp.com/send?phone=639054620846' },
-  { id: 'admin-jec', text: 'Jec', href: 'https://api.whatsapp.com/send?phone=639611521891' },
-  { id: 'admin-teddy', text: 'Teddy', href: 'https://api.whatsapp.com/send?phone=639615431545' },
-  { id: 'admin-danica', text: 'Danica', href: 'https://api.whatsapp.com/send?phone=639772189091' },
-  { id: 'admin-jonina', text: 'Jonina', href: 'https://api.whatsapp.com/send?phone=639058429200' },
+  { id: 'admin-phoebe', text: 'Admin Phoebe', href: 'https://api.whatsapp.com/send?phone=639686450947' },
+  { id: 'admin-glia', text: 'Admin Glia', href: 'https://api.whatsapp.com/send?phone=639758609769' },
+  { id: 'admin-james', text: 'Admin James', href: 'https://api.whatsapp.com/send?phone=639054620846' },
+  { id: 'admin-jec', text: 'Admin Jec', href: 'https://api.whatsapp.com/send?phone=639611521891' },
+  { id: 'admin-teddy', text: 'Admin Teddy', href: 'https://api.whatsapp.com/send?phone=639615431545' },
+  { id: 'admin-danica', text: 'Admin Danica', href: 'https://api.whatsapp.com/send?phone=639772189091' },
+  { id: 'admin-jonina', text: 'Admin Jonina', href: 'https://api.whatsapp.com/send?phone=639058429200' },
 ]
 
 function App() {
